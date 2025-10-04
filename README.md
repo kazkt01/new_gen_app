@@ -1,7 +1,7 @@
 ###  👨‍💻これまで学習した内容の復習リポジトリ
 ✅PHP
 ✅Python & Fast API 
-✅Next.js/Ts
+✅TypeScript & Next.js
 ✅Docker
 
 ✍️
